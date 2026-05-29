@@ -1,0 +1,16 @@
+nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    
+}
+.img1{
+    width:45vw;
+    height: 40vh;
+    align-items:center;
+
+}
+.p-style{
+    align-items:center;
+    font-style: italic;
+}
