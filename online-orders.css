@@ -2,3 +2,13 @@ body {
     display:flex;
     flex-direction:column;
 }
+
+div.checkout {
+    border-style: dashed;
+    padding: 10px;
+    margin: 20px;
+}
+div.payment {
+    border-style: dashed;
+    padding
+}
