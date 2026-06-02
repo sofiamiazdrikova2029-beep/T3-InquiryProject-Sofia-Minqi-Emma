@@ -10,5 +10,10 @@ div.checkout {
 }
 div.payment {
     border-style: dashed;
-    padding
+    padding:25px;
+    margin: 20px;
+   
 }
+div.Home {
+    border-style:groove;
+   
