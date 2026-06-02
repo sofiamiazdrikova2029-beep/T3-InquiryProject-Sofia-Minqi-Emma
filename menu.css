@@ -2,6 +2,7 @@ nav{
     display:flex;
     flex-direction:row;
     justify-content:space-around;
+    color:black;
     
 }
 .img1{
@@ -13,4 +14,22 @@ nav{
 .p-style{
     align-items:center;
     font-style: italic;
+    display:flex;
+    justify-content:center
+}
+header{
+    display:flex;
+   flex-direction:column;
+   justify-content:center;
+   align-items:center;
+
+
+}
+
+body{
+    background-color: rgb(171, 220, 204);
+}
+.main-style{
+  display:flex;
+justify-content:center;
 }
