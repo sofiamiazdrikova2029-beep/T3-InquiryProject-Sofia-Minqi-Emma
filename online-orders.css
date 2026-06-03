@@ -1,6 +1,9 @@
 body {
     display:flex;
     flex-direction:column;
+    background-color:rgb(206, 201, 188);
+    color: rgb(43, 29, 11);
+   
 }
 
 div.checkout {
@@ -16,4 +19,8 @@ div.payment {
 }
 div.Home {
     border-style:groove;
-   
+    background-color: rgb(226, 211, 253);
+    
+}
+
+
