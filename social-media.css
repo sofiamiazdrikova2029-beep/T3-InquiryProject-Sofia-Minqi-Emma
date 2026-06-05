@@ -32,6 +32,16 @@ body {
     flex-direction: row;
 }
 
+.box-styling {
+    width: 25vw;
+    height: 35vh;
+    margin: 30px;
+    background-color: #CFB8A5;
+    border: 2px solid #2B1B0D;
+    display: flex;
+    align-items: center;
+}
+
 .instagram-styling {
     display: flex;
     flex-direction: column;
