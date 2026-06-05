@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+    background-color: #CDC5B4;
+}
+
+nav{
+    background-color: #E3D7FF;
+    display: flex;
+    flex-direction: row;
+}
