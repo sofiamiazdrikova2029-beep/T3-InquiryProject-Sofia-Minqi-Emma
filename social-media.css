@@ -4,7 +4,10 @@
 
 body {
     background-color: #CDC5B4;
-    background-image: ;
+}
+
+.font-styling {
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .nav-styling {
@@ -18,13 +21,26 @@ body {
     align-items: center;
 }
 
+
+
+}
+
 .nav-bar-styling {
+    color: #7E65BB;
     display: flex;
     justify-content: flex-end;
 }
 
+.instagram-styling {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
 
 p {
     color: #2b1b0d;
 }
 
+h2 {
+    color: #2b1b0d;
+}
