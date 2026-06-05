@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #CDC5B4;
+    background-image: ;
+}
+
+.nav-styling {
+    width: 100vw;
+    height: 10vh;
+    color: #7E65BB;
+    background-color: #DFD1FF;
+    border: 2px solid #7E65BB;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-bar-styling {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+p {
+    color: #2b1b0d;
+}
+
