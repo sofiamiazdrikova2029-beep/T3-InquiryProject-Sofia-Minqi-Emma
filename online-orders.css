@@ -10,17 +10,33 @@ div.checkout {
     border-style: dashed;
     padding: 10px;
     margin: 20px;
+    width: 30%;
 }
 div.payment {
     border-style: dashed;
     padding:25px;
     margin: 20px;
+    width: 30%;
    
 }
 div.Home {
     border-style:groove;
     background-color: rgb(226, 211, 253);
+    width: 40vw;
+    height: 8vh;
+    padding: 10px ;
+    margin: px ;
     
 }
 
+div.text {
+    width: 50%;
+    
+}
+
+div.item {
+   display: flex;
+   flex-direction: row;
+
+}
 
