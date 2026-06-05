@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #CDC5B4;
+    background-color: #A78E78FF;
 }
 
 .font-styling {
@@ -13,22 +13,23 @@ body {
 .nav-styling {
     width: 100vw;
     height: 10vh;
-    color: #7E65BB;
-    background-color: #DFD1FF;
-    border: 2px solid #7E65BB;
+    color: #2B1B0D;
+    background-color: #CFB8A5;
+    border: 2px solid #2B1B0D;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-
-
-}
-
 .nav-bar-styling {
-    color: #7E65BB;
+    color: #2B1B0D;
     display: flex;
     justify-content: flex-end;
+}
+
+.header-styling {
+    display: flex;
+    flex-direction: row;
 }
 
 .instagram-styling {
@@ -37,8 +38,18 @@ body {
     gap: 50px;
 }
 
+.facebook-styling {
+    display: flex;
+    flex-direction: column;
+    gap: 50px
+}
+
+a {
+    color:#2B1B0D;
+}
+
 p {
-    color: #2b1b0d;
+    color: #2B1B0D;
 }
 
 h2 {
